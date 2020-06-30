@@ -1,0 +1,22 @@
+[
+  {
+    "jumpID": 1,
+    "date": "12/12/12",
+    // Possilbe jump data to add dynamically: weather, winds aloft, & gps
+    "dropzone": "PNW",
+    "aircraft": "Pac-750XL",
+    "users": [
+      {
+        "name": "Garrett Trott",
+        "email": "garretttrott@gmail.com",
+        "gear": {
+          "reserve": "OP-146",
+          "main": "Crossfire2 129",
+          "container": "Infinity",
+          "aad": "Vigil 2"
+        },
+        "jumptype": "freefly"
+      }
+    ]
+  }
+]
